@@ -27,6 +27,10 @@ a{
     text-decoration: none;
 }
 
+span{
+    color: #ffff00;
+}
+
 img{
     margin-right: 20px;
     width: 300px;
