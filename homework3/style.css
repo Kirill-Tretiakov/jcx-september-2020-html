@@ -1,0 +1,376 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear-both {
+    clear: both;
+}
+
+.margin-auto {
+    margin: auto;
+}
+
+.text-color-white {
+    color: white;
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: center;
+}
+
+.div0 {
+    border: solid red 2px;
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+}
+
+.div1 {
+    height: 400px;
+    width: 100%;
+    padding-top: 20px;
+    background-color: #ffc0cb;
+}
+
+.div2 {
+    height: 200px;
+    width: 60%;
+    margin: 20px auto auto;
+    padding-top: 50px;
+    background-color: white;
+}
+
+.div3 {
+    height: 50px;
+    width: 70%;
+    margin: auto;
+    padding-top: 10px;
+    background-color: black;
+}
+
+.div4 {
+    height: 100px;
+    width: 47%;
+    margin-left: 27px;
+    background-color: red;
+}
+
+.div5 {
+    height: 100px;
+    width: 47%;
+    float: right;
+    margin-right: 27px;
+    background-color: green;
+}
+
+.div6 {
+    width: 100%;
+    height: 20px;
+    background-color: black;
+}
+
+.div7 {
+    height: 150px;
+    width: 25%;
+    background-color: red;
+    padding-top: 50px;
+}
+
+.div8 {
+    height: 100px;
+    width: 33.3%;
+    background-color: green;
+}
+
+.div9 {
+    height: 100px;
+    width: 33.3%;
+    background-color: pink;
+}
+
+.div10 {
+    height: 100px;
+    width: 33.3%;
+    background-color: green;
+}
+
+.div11 {
+    height: 150px;
+    width: 25%;
+    padding-top: 50px;
+    background-color: orange;
+}
+
+.div12 {
+    width: 80%;
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+}
+
+.div13 {
+    height: 40px;
+    width: 33.1%;
+    margin-top: 30px;
+    background-color: green;
+}
+
+.div14 {
+    height: 40px;
+    width: 33.1%;
+    margin-top: 30px;
+    background-color: pink;
+}
+
+.div15 {
+    height: 40px;
+    width: 33.1%;
+    margin-top: 30px;
+    background-color: green;
+}
+
+.div16 {
+    height: 150px;
+    width: 25%;
+    padding-top: 50px;
+    background-color: pink;
+}
+
+.div17 {
+    height: 100px;
+    width: 30%;
+    background-color: green;
+}
+
+.div18 {
+    height: 100px;
+    width: 30%;
+    background-color: red;
+}
+
+.div19 {
+    height: 150px;
+    width: 25%;
+    padding-top: 50px;
+    background-color: green;
+}
+
+.div20 {
+    width: 80%;
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+}
+
+.div21 {
+    height: 40px;
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: green;
+}
+
+.div22 {
+    height: 40px;
+    width: 40%;
+    margin-top: 30px;
+    background-color: pink;
+}
+
+.div23 {
+    width: 100%;
+    height: 10px;
+    background-color: black;
+}
+
+.div24 {
+    width: 33.3%;
+    height: 400px;
+    background-color: green;
+}
+
+.div25 {
+    width: 33.4%;
+    height: 400px;
+    background-color: red;
+}
+
+.div26 {
+    width: 33.3%;
+    height: 400px;
+    background-color: blue;
+}
+
+.div27 {
+    width: 80%;
+    height: 100px;
+    margin-top: 10%;
+    background-color: orange;
+}
+
+.div28 {
+    width: 40%;
+    height: 150px;
+    margin-left: 50px;
+    background-color: red;
+}
+
+.div29 {
+    width: 40%;
+    height: 150px;
+    margin-right: 51px;
+    background-color: pink;
+}
+
+.div30 {
+    width: 33.3%;
+    height: 300px;
+    margin-top: 100px;
+    background-color: blue;
+}
+
+.div31 {
+    width: 33.3%;
+    height: 300px;
+    margin-top: 100px;
+    background-color: orange;
+}
+
+.div32 {
+    width: 33.3%;
+    height: 300px;
+    margin-top: 82px;
+    background-color: green;
+}
+
+.div33 {
+    width: 120px;
+    height: 80px;
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: white;
+}
+
+.div34 {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+
+.div35 {
+    width: 120px;
+    height: 100px;
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: pink;
+}
+
+.div36 {
+    width: 50px;
+    height: 60px;
+    margin-left: 10px;
+    background-color: green;
+}
+
+.div37 {
+    width: 50px;
+    height: 60px;
+    margin-right: 10px;
+    background-color: red;
+}
+
+.div38 {
+    width: 85px;
+    height: 250px;
+    margin-top: 40px;
+    background-color: red;
+}
+
+.div39 {
+    width: 82px;
+    height: 180px;
+    margin-top: 60px;
+    background-color: pink;
+}
+
+.div40 {
+    width: 100%;
+    height: 20px;
+    background-color: black;
+}
+
+.div41 {
+    width: 33.3%;
+    height: 280px;
+    background-color: white;
+    margin-top: 120px;
+}
+
+.div42 {
+    width: 30%;
+    height: 200px;
+    margin-top: 30px;
+    background-color: red;
+}
+
+.div43 {
+    width: 30%;
+    height: 200px;
+    margin-top: 30px;
+    background-color: green;
+}
+
+.div44 {
+    width: 33.3%;
+    height: 300px;
+    margin-top: 70px;
+    background-color: orange;
+}
+
+.div45 {
+    width: 33.3%;
+    height: 300px;
+    margin-top: 30px;
+    background-color: pink;
+}
+
+.div46 {
+    height: 30px;
+    width: 60px;
+    margin-top: 20%;
+    padding-top: 10px;
+    background-color: black;
+}
+
+.div47 {
+    height: 80px;
+    width: 60px;
+    margin-top: 41%;
+    margin-left: 14%;
+    background-color: red;
+}
+
+.div48 {
+    height: 80px;
+    width: 60px;
+    margin-top: 30%;
+    margin-right: 14%;
+    background-color: green;
+}
+
+
+.footer {
+    width: 100%;
+    height: 48px;
+    background-color: black;
+}
